@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+    
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background:goldenrod;
+    padding: 1rem;
+    font-size: 2.5rem;
+    position:sticky;
+    top: 0;
+}
+.div2 a{
+    text-decoration: none;
+}
+#home{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+
+}
+.class1{
+    width: 50%;
+}
+
+.p1{
+    font-size: 35px;
+}
+#btn1{
+    height: 30px;
+    border-radius: 10px;
+    background: orangered;
+}
+.class2{
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("https://syket-das.github.io/food-network/img/Group%208425.png");
+}
+a{
+    margin-right: 10px;
+}
+#aboutme{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+    background: pink;
+    height: 300px;
+    margin-top: 50px;
+}
+.class3{
+    width: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://syket-das.github.io/food-network/img/Person%20Image.png");
+}
+.class4{
+    width: 50%;
+}
+#btn2{
+    background-color: orangered;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#recipies{
+    /* height: 500px; */
+
+}
+h2{
+    text-align: center;
+    font-size:50px; 
+    margin-top: 20px;
+}
+.p4{
+    text-align: center;
+}
+.imges{
+    
+    display: flex;
+  
+    padding: 1rem;
+}
+.imag img{
+    max-width: 100%;
+    margin-bottom: 5rem;
+   
+
+}
+.imag{
+    padding: 1.5rem;
+    margin: 2rem;
+    box-shadow: 5px 10px 10px 5px rgb(0, 0, 0,0.1);
+    border-radius: 4%;
+}
+/* p{
+    margin-left: 10px;
+    font-size: 20px;
+} */
+.para{
+    margin-top: 10px;
+    font-size: 15px;
+    background-color: blanchedalmond;
+}
+.socialmedia{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 2rem;
+    border-radius: 5%;
+    box-shadow: 5px 10px 10px 5px rgb(0, 0, 0,0.1);
+    margin-top: 3rem;
+    padding: 2rem 1rem;
+
+}
+
+.row1{
+    display: flex;
+    padding: 1.5rem;
+    margin: 2rem;
+  
+
+}
+.row1 img{
+    max-width: 100%;
+}
+.heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.img4{
+    padding: 1rem;
+    margin: 1rem;
+    border: 2.5px solid black;
+    border-radius: 10px;
+    
+}
+.p{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.btn3{
+    background: orangered;
+    border-radius: 10px;
+}
+.row2{
+    display: flex;
+    padding: 1.5rem;
+    margin: 2rem;
+    
+
+}
+.row2 img{
+    max-width: 100%;
+}
+footer{
+    background-color:black;
+}
+.h2{
+    text-align: center;
+    color: aliceblue;
+}
+.ft{
+    text-align: center;
+    color: aliceblue;
+}
+
+
